@@ -2,7 +2,7 @@
 
 Este é um simples formulário de cadastro de desenvolvedores criado com HTML e CSS. Ele permite que os desenvolvedores insiram suas informações básicas para registro.
 
-![Screenshot do Formulário de Cadastro de Desenvolvedores](https://github.com/douglasbelizario/formulario-html-css/issues/1#issue-1920855786)
+![Descrição da Captura de Tela](https://github.com/douglasbelizario/formulario-html-css/issues/1#issue-1920855786)
 
 ## Como Usar
 
