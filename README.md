@@ -9,4 +9,4 @@ Este é um simples formulário de cadastro de desenvolvedores criado com HTML e 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/douglasbelizario/formulario-html-css.git
